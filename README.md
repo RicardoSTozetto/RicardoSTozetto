@@ -1,5 +1,7 @@
+<h1>Ricardo Schleder Tozetto</h1>
+
 - 👋 Hi, I’m @RicardoSTozetto
-- 👀 I’m interested in IoT technologies.
+- 👀 I’m interested in Web, Mobile and IoT technologies.
 - 🌱 I’m currently learning Front-end, but I work with Hardware, Firmware, Telecommunications and Back-End. 
 - 📫 How to reach me: E-mail 1 --> ricardo@optim.eng.br E-mail 2 --> ricardotozetto23@gmail.com 
 
